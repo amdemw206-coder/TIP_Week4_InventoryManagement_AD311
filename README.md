@@ -21,9 +21,9 @@
 - inv3 = ["one", "two", "three"] // Expected Output: ["one", "two", "three"]
 
 ### Edge Cases: 
-- inv4 = 100 // Expected Output: Error X
+- inv4 = 100 // Expected Output: 100
 - inv5 = [0,0,0,0,0,0] // Expected Output:[0,0,0,0,0,0] 
-- inv6 = 1.73 // Expected Output: Error 
+- inv6 = 1.73 // Expected Output: 1.73 
 
 ### Flowchart
 ![alt text](https://github.com/amdemw206-coder/TIP_Week4_InventoryManagement_AD311/blob/main/snapshots/inventory_flowchart.png)
