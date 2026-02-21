@@ -26,4 +26,4 @@
 - inv6 = 1.73 // Expected Output: Error 
 
 ### Flowchart
-![alt text]()
+![alt text](https://github.com/amdemw206-coder/TIP_Week4_InventoryManagement_AD311/blob/main/snapshots/inventory_flowchart.png)
